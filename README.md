@@ -6,6 +6,8 @@ Whenever `go get` is used to grab a package, there are typical `LICENSE`, `AUTHO
 
 ## Installation
 
+Head over to the ![Releases page](https://github.com/servusDei2018/goclean/releases/latest) and download the latest build or run the following command below:
+
 `go install github.com/servusDei2018/goclean`
 
 ## Usage
