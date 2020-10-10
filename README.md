@@ -1,4 +1,4 @@
-# goclean
+# goclean ![](https://img.shields.io/github/downloads/servusdei2018/goclean/total?style=flat-square) ![](https://img.shields.io/github/issues-raw/servusdei2018/goclean?style=flat-square) ![](https://img.shields.io/badge/go-1.15-critical?style=flat-square&logo=go)
 Aimed at go developers, goclean sifts through complex directory structures and removes useless files to save space.
 
 ## About
